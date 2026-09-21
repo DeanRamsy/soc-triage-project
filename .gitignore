@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+*.sqlite3
+node_modules/
+build/
+.env.local
+npm-debug.log*
+.vscode/
+.idea/
